@@ -1,0 +1,36 @@
+@charset "UTF-8";
+.N5D98BB12--div {
+    position: relative;
+}
+.N5D98BB12--top {
+    position: absolute;
+    top: 0;
+    right: 0;
+    /*bottom*/
+    left: 0;
+    height: 20px;
+}
+.N5D98BB12--right {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    /*left*/
+    width: 20px;
+}
+.N5D98BB12--bottom {
+    position: absolute;
+    /*top*/
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 20px;
+}
+.N5D98BB12--left {
+    position: absolute;
+    top: 0;
+    /*right*/
+    bottom: 0;
+    left: 0;
+    width: 20px;
+}
